@@ -1,0 +1,9 @@
+The 1st, 2nd & 3rd column contains 3, therefore the only possible place of putting 3 is in the 4th column and also there are 3s in1st, 2nd & 3rd row. Hence, we can put 3 in the last column of the last row.
+The 2nd column & 2nd row has 1, therefore we can put 1 at 1st column in 1st row. Similarly, the last column & last row contains 1, therefore we can put 1 at 3rd column of 3rd row.
+Now, all the 1s and 3s have been filled.
+Now, let's put 4 at the 2rd row of last column and put 2 at the 1st row of the same column so as to complete that column.
+Considering the 2x2 boxes which consists of the last raw & last column, and put 2 to the last row of the 3rd column.
+Put 4 to the 2nd row of 3rd column so as to complete that column.
+Consider the 2x2 box which consists of the last raw of the 1st column, put 4 to the last row of the 1st column because there is a 4 in the 3rd row and put 2 to the 2nd column of the 3rd row to complete that 2x2 box.
+Put 4 in the 2nd column of the 1st row as there is a 4 in the 1st column.
+Put 2 at the remaining of last space.
