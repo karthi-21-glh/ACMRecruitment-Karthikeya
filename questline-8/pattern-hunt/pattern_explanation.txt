@@ -1,0 +1,3 @@
+The next two numbers are: 30, 42
+
+The difference between the 1st two numbers is 4, the next two numbers is 6 and the next two numbers is 8. We can see that the difference increase by 2 after each increment. Therefore, the difference between 20 and the next number will be 10 and the difference between second last number and the last number will be 12.
