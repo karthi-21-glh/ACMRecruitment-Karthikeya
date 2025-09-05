@@ -1,0 +1,9 @@
+1 and 2 cross -> 2 min
+1 returns -> 1 min
+7 and 10 cross -> 10 min
+2 returns -> 2 min
+1 and 2 cross -> 2 min
+
+Total -> 17 min
+
+The two slowest people (7 and 10) cross together, taking only the slower time (10 min). The two fastest (1 and 2) act as torch-shuttles to minimize return time consumption — sending the fastest pair back and forth keeps the extra return time consumption small (1 and 2 instead of repeatedly returning a slow person). Other obvious variants (for example, having 1 escort each slow person separately) add more slow crossings and produce larger totals, so 17 is the minimum.
