@@ -1,0 +1,6 @@
+Turn Switch A ON. Leave it on long enough that the bulb would warm up if it is the correct switch.
+Turn Switch A OFF, and immediately turn Switch B ON.
+Go into the other room and inspect the bulb once:
+	If the bulb is lit, it’s controlled by Switch B.
+	If the bulb is off but warm to the touch, it’s controlled by Switch A.
+	If the bulb is off and cold, it’s controlled by Switch C.
